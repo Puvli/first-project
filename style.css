@@ -3,6 +3,10 @@ body {
     color: aliceblue;
 }
 
+h1 {
+    color: black;
+}
+
 .test {
     background-color: aqua;
     color: aliceblue;
